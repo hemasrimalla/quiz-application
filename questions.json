@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "def", "function", "define"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the output of len([1, 2, 3, 4])?",
+    "options": ["3", "4", "5", "Error"],
+    "answer": "B"
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": ["list", "dictionary", "tuple", "set"],
+    "answer": "C"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "/* */", "--"],
+    "answer": "B"
+  },
+  {
+    "question": "What does the range(3) function generate?",
+    "options": ["1, 2, 3", "0, 1, 2", "0, 1, 2, 3", "1, 2"],
+    "answer": "B"
+  },
+  {
+    "question": "Which method adds an item to the end of a list?",
+    "options": ["add()", "insert()", "append()", "push()"],
+    "answer": "C"
+  },
+  {
+    "question": "How do you access the value for key 'name' in a dictionary d?",
+    "options": ["d.name", "d['name']", "d(name)", "d{name}"],
+    "answer": "B"
+  },
+  {
+    "question": "Which module is used to work with JSON data in Python?",
+    "options": ["jsonlib", "pyjson", "json", "simplejson"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of 10 // 3 in Python?",
+    "options": ["3.33", "3", "4", "1"],
+    "answer": "B"
+  },
+  {
+    "question": "Which loop is used to iterate over a sequence in Python?",
+    "options": ["for", "repeat", "foreach", "loop"],
+    "answer": "A"
+  },
+  {
+    "question": "What does the 'return' statement do in a function?",
+    "options": [
+      "Prints a value",
+      "Ends the program",
+      "Sends a value back to the caller",
+      "Restarts the function"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which function converts a string '25' to an integer?",
+    "options": ["str()", "float()", "int()", "num()"],
+    "answer": "C"
+  }
+]
